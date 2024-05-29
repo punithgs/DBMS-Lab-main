@@ -54,7 +54,6 @@ create table book_lending(
 );
 
 # Value Insertion
-
 insert into publisher
     (name, address, phone)
 values
